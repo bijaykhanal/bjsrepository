@@ -1,0 +1,19 @@
+
+public class HelloMyName {
+
+	public static void main(String[] args)     //main method ho yo
+	{  
+
+		
+		System.out.println("hi i am bj khanal");
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
